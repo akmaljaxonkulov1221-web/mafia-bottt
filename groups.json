@@ -1,0 +1,14 @@
+{
+  "-1003824507929": {
+    "lang": "uz",
+    "silent_mode": false,
+    "reveal_roles": true,
+    "allow_teamgame": true,
+    "allow_giveaway": false,
+    "weapons_enabled": false,
+    "night_seconds": 25,
+    "discussion_seconds": 15,
+    "day_seconds": 25,
+    "registration_seconds": 60
+  }
+}
